@@ -19,7 +19,7 @@ tags:
 dependencies: {}
 build_ignore:
   - .github
-repository: https://github.com/znerol/ansible-become-password-command.git
-documentation: https://github.com/znerol/ansible-become-password-command
-homepage: https://github.com/znerol/ansible-become-password-command
-issues: https://github.com/znerol/ansible-become-password-command/issues
+repository: https://github.com/znerol/ansible-collection-become-password.git
+documentation: https://github.com/znerol/ansible-collection-become-password
+homepage: https://github.com/znerol/ansible-collection-become-password
+issues: https://github.com/znerol/ansible-collection-become-password/issues
