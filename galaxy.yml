@@ -1,0 +1,25 @@
+---
+namespace: znerol
+name: become_password
+version: 1.0.0
+readme: README.md
+authors:
+  - Lorenz Schori
+description: |
+    Provides an ansible vars plugin which looks up become password using a user
+    specified command.
+license:
+  - GPL-3.0-or-later
+tags:
+  - become
+  - password
+  - security
+  - sudo
+  - utilities
+dependencies: {}
+build_ignore:
+  - .github
+repository: https://github.com/znerol/ansible-become-password-command.git
+documentation: https://github.com/znerol/ansible-become-password-command
+homepage: https://github.com/znerol/ansible-become-password-command
+issues: https://github.com/znerol/ansible-become-password-command/issues
