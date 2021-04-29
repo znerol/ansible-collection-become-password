@@ -46,6 +46,9 @@ absolute or relative).
 
 The first argument to the command is the inventory hostname or group name.
 
+Both `host_command` and `group_command` are optional settings. It is
+recommended to specify only one of them.
+
 ## Example password lookup script
 
 ```
